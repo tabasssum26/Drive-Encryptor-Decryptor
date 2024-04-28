@@ -11,7 +11,7 @@ This project provides a simple graphical user interface (GUI) for encrypting and
 
 ## Instructions for Use
 
-1. Run the script `encrypt_decrypt_gui.py`.
+1. Run the script `Drive encrypted & Decrypted.py`.
 2. Select files or directories to encrypt or decrypt using the provided buttons.
 3. Enter the encryption or decryption password when prompted.
 4. Monitor the status label for operation completion messages.
